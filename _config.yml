@@ -1,0 +1,43 @@
+locale: "pl-PL"
+title: eventshaper blog # Title of your site
+url: "http://blog.eventshaper.pl" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: "UA-59056058-1"
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+  Blog eventshaper najlepszego systemu do rejestracji uczestników konferencji, szkoleń, kongresów, wydarzeń, eventów.
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: zespół eventshaper
+  email: kontakt@eventshaper.pl
+  twitter: eventshaper # twitter username without the @ symbol
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: eventshaper
+
+permalink: pretty
+
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS

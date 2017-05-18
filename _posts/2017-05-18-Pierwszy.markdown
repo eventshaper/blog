@@ -1,0 +1,6 @@
+---
+layout: post
+---
+<img src="/images/fulls/03.jpg" class="fit image">
+
+Otwieramy blog [eventshaper](https://eventshaper.pl) gdzie będziemy informowali o postępach naszych prac oraz ciekawostkach związanych z branżą eventową w Polsce i na świecie.
