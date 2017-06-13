@@ -1,3 +1,6 @@
+gems:
+  - jekyll-sitemap
+
 locale: "pl-PL"
 title: eventshaper blog # Title of your site
 url: "http://blog.eventshaper.pl" # the base hostname & protocol for your site
