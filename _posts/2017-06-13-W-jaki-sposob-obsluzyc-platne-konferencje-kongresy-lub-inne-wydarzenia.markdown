@@ -40,7 +40,7 @@ Wszystkie systemy pośrednictwa płatności pobierają prowizję od każdej wpł
 
 Przygotowanie i podpisanie umowy z pośrednikiem płatności jest procesem który trwa zazwyczaj około trzech tygodni. Warto więc się za to zabrać odpowiednio wcześnie, aby uniknąć stresu i… zdążyć przed otwarciem rejestracji - zwłaszcza, że sama umowa to nie wszystko!
 
-Mam umowę. Co teraz? Teraz zespół [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog) wdroży dla Ciebie płatności zgodnie z Twoimi oczekiwaniami odnośnie kwot, walut oraz odpowiedniego zachowania strony wydarzenia. Jedyne co musisz zrobić to przekazać swoje ID oraz PIN konta, z którym się zintegrujemy. Standardowe wdrożenia trwają około tygodnia.
+Mam umowę. Co teraz? Teraz zespół [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog&utm_term=article1) wdroży dla Ciebie płatności zgodnie z Twoimi oczekiwaniami odnośnie kwot, walut oraz odpowiedniego zachowania strony wydarzenia. Jedyne co musisz zrobić to przekazać swoje ID oraz PIN konta, z którym się zintegrujemy. Standardowe wdrożenia trwają około tygodnia.
 
 ### Wariant 2 – płatności tradycyjnym przelewem bankowym
 
@@ -60,7 +60,7 @@ Drugim wariantem obsługi płatności na konferencji są tradycyjne przelewy ban
 
 ### Wariant 3 – Mix płatności zintegrowanych oraz tradycyjnych
 
-Organizatorzy często pytają nas o możliwość wdrożenia dwóch rodzajów płatności zarówno zintegrowanych jak i tradycyjnych. Dobre wieści są takie, że oczywiście w [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog) wszystko da się zrobić! Jak to wygląda?
+Organizatorzy często pytają nas o możliwość wdrożenia dwóch rodzajów płatności zarówno zintegrowanych jak i tradycyjnych. Dobre wieści są takie, że oczywiście w [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog&utm_term=article1) wszystko da się zrobić! Jak to wygląda?
 
 1. W formularzu rejestracyjnym dodamy kolejne pole w którym uczestnik będzie wybierał w jaki sposób chce zapłacić - do wyboru będzie miał dwie opcje:
   - tradycyjny przelew bankowy
@@ -68,6 +68,6 @@ Organizatorzy często pytają nas o możliwość wdrożenia dwóch rodzajów pł
 2. W zależności od opcji, którą wybierze, dalszy scenariusz będzie zgodny z Wariantem 1 lub Wariantem 2.
 3. Organizator będzie mógł w prosty sposób filtrować uczestników według typu płatności.
 
-Niezależnie od wariantu, który wybierzesz, zespół [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog) pomoże osiągnąć Ci zamierzony cel i zadba o najwyższy poziom obsługi informatycznej Twoich uczestników. Jeśli masz więcej pytań to zachęcamy do kontaktu!
+Niezależnie od wariantu, który wybierzesz, zespół [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog&utm_term=article1) pomoże osiągnąć Ci zamierzony cel i zadba o najwyższy poziom obsługi informatycznej Twoich uczestników. Jeśli masz więcej pytań to zachęcamy do kontaktu!
 
  
