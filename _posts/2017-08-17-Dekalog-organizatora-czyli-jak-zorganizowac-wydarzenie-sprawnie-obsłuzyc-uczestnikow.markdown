@@ -63,5 +63,5 @@ X. Wprowadź wszystko w życie
 
 Na papierze wszystko wygląda przyzwoicie. Wszystko zarezerwowane, lista uczestników pęka w szwach, sponsorzy i partnerzy już się wykazali, do eventu zostało kilka godzin. Wzorowy organizator nie spoczywa na laurach, lecz ciągle trzyma rękę na pulsie. Od samego początku do samego końca musimy zajmować się wydarzeniem jak własnym dzieckiem, jeśli chcemy mieć gwarancję, że będzie ono sukcesem i zostaniemy poleceni następnym klientom. Czy nie byłoby pięknie, gdyby wszystkim można było zarządzać w jednym miejscu? Otóż można. Wystarczy skorzystać z systemu [eventshaper](https://eventshaper.pl?utm_source=eventshaper-blog&utm_medium=referral&utm_campaign=blog&utm_term=article2), aby prosto i bezboleśnie sprawować kontrolę nad eventem od początku do samego końca.
 
- <img src="/images/fulls/p2/0.png" class="fit image">
+ <img src="/images/fulls/p2/06.png" class="fit image">
  
