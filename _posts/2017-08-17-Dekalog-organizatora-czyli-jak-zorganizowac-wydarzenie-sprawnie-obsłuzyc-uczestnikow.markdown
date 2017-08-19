@@ -3,6 +3,10 @@ layout: post
 permalink: dekalog-organizatora
 title: Dekalog organizatora
 excerpt_separator: <!--more-->
+date:   2017-08-17 13:25:23 +0200
+categories: konferencje płatności "organizowanie wydarzeń" "budżet konferencji"
+image: http://blog.eventshaper.pl/images/fulls/p2/01.png
+excerpt: "Czyli jak skutecznie zorganizować wydarzenie i sprawnie obsłużyć uczestników."
 ---
 
 **Czyli jak skutecznie zorganizować wydarzenie i sprawnie obsłużyć uczestników.**

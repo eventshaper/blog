@@ -2,6 +2,9 @@
 layout: post
 permalink: w-jaki-sposob-obsluzyc-platne-konferencje-kongresy-lub-inne-wydarzenia
 title: W jaki sposób obsłużyć płatne konferencje, kongresy lub inne wydarzenia
+date:   2017-06-13 15:41:34 +0200
+categories: płatności bramka pieniądze faktury DotPay formularz
+excerpt: "Obsługa płatności na eventach to jeden z tematów bardzo często poruszanych przez organizatorów oraz event managerów."
 ---
 
 Obsługa płatności na eventach to jeden z tematów bardzo często poruszanych przez organizatorów oraz event managerów. W zależności od branży oraz od rodzaju konferencji, często spotykamy się z różnymi pytaniami począwszy od możliwości skorzystania ze zwykłych przelewów bankowych aż po automatyczną obsługę kilku walut. Postaramy się opisać jakie są trzy główne warianty obsługi płatności.
