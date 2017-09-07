@@ -44,3 +44,7 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+
+exclude:
+  - assets/javascript/anchor-js/docs/grunticon/preview.html
+  - assets/javascript/anchor-js/docs/index.html
