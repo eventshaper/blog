@@ -42,7 +42,7 @@ Eventshaper ma na swoim koncie wsparcie już ponad 200 wydarzeń, a ich różnor
 
 Jeśli celem wydarzenia ma być przeszkolenie zainteresowanych, od zaproszeń przez cały event, skoncentruj się na uczestnikach i dobrym zapleczu merytorycznym. Nie przejmuj się brakiem bezpośredniego profitu dla Twojej firmy. Zysk nadejdzie wtedy, gdy uczestnicy przekonają się, jak Twoja działalność może pomóc im w ich pracy.
 
-Jeśli zaś celem jest generowanie leadów, potraktuj wydarzenie jak każdą inną aktywność związaną z pozyskiwaniem zainteresowania. Przefiltruj i skategoryzuj leady, pomóż gościom dobrze poczuć się na evencie. Dobrze zorganizowane wydarzenie równa się niezliczone korzyści.
+Jeśli zaś celem jest generowanie leadów, potraktuj wydarzenie jak każdą inną aktywność związaną z pozyskiwaniem zainteresowania. Pomóż gościom dobrze poczuć się na evencie, przecież to Twoi potencjalni klienci. Dobrze zorganizowane wydarzenie przełoży się na niezliczone korzyści.
 
 
 
